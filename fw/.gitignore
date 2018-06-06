@@ -1,0 +1,10 @@
+
+/.piolibdeps
+/.pioenvs
+
+/CMakeListsPrivate.txt
+/cmake-build-*
+
+# IDE
+/.idea
+/cli.iml
